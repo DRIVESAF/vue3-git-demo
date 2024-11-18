@@ -1,5 +1,5 @@
 <template>
-  <div>gx</div>
+  <div>cccccccccyyyyyyyyy</div>
 </template>
 
 <script setup lang="ts"></script>
